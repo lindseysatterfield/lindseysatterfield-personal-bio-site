@@ -14,3 +14,30 @@ nav ul, #technologies-container, #contact-me {
 a {
   text-decoration: none;
 }
+
+#profile {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 1em;
+  text-align: center;
+}
+
+#bio {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.bio {
+  display: flex;
+  text-align: left;
+  font-size: 20px;
+  width: 70%;
+}
+
+#coding-img{
+  width: 8%;
+  margin: 1em auto;
+}
