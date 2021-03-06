@@ -7,13 +7,16 @@ const navbar = () => {
     <a class="navbar-brand" href="#">Lindsey Satterfield</a>
     <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
       <li class="nav-item">
-        <a class="nav-link" href="#navToBio">Bio</a>
+        <a class="nav-link" href="#bio">Bio</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#navToTechnologies">Technologies</a>
+        <a class="nav-link" href="#technologies">Technologies</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#navToContact">Contact Me</a>
+        <a class="nav-link" href="#projects">Projects</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#contact">Contact Me</a>
       </li>
     </ul>
   </div>
