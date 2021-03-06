@@ -3,11 +3,63 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="shortcut icon" href="#">
-  <title>Test</title>
+  <title>Lindsey Satterfield's Portfolio</title>
 </head>
 <body>
-  <div id="login-form-container"></div>
-  <div id="app"></div>
+  <!-- Navigation -->
+  <nav>
+    <!-- TODO: Insert some sort of H1-H6 with your name here -->
+    <h4>Lindsey</h4>
+    <ul id="navLinks">
+      <li><a href="#navToBio">Bio</a></li>
+      <li><a href="#navToTechnologies">Technologies</a></li>
+      <li><a href="#navToProjects">Projects</a></li>
+      <li><a href="#navToContact">Contact Me</a></li>
+    </ul>
+  </nav>
+  <!-- End Navigation -->
+
+  <!-- Primary View -->
+  <!-- TODO: Fill in bio info here: What is your background? Why do you want to go into development? What do you love about development? -->
+  <div class="fullPage" id="bioPage">
+    <div class="greeting-section">
+      <h1 class="greeting">Hello World! I'm Lindsey.</h1>
+      <h3 class="greeting-title">Web Developer</h3>
+     <div id="navToBio">
+       <p class="bio">As a long time enthusiast of all things technology, I am currently loving what I do -- developing websites and applications. A Nashville native, I am still here and currently attending Nashville Software School. Formerly a worker in the video production world and graduate of the University of Tennessee, I decided it was time to follow my dreams and enter the technology world to allow myself more creativity. I am in the process of learning Front End Development and C#/.NET. When I am not in front of a computer, I enjoy hiking, photography, traveling, and going to Preds games.</p> 
+     </div>
+    </div>
+  </div>
+  <div class="fullPage" id="technologiesPage">
+    <!-- TODO: Start an UL of all of the tools and technologies you've started learning so far. (You'll beef this page up later). -->
+    <h4 id="navToTechnologies">Technologies</h4>
+    <ul id="technologies-container">
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>JavaScript</li>
+      <li>Bootstrap</li>
+      <li>Git</li>
+      <li>GitHub</li>
+    </ul>
+  </div>
+  <div class="fullPage" id="projectsPage">
+    <h4 id="navToProjects">Projects</h4>
+    <div id="projects-container" class="d-flex">
+      <!-- Project objects go here -->
+    </div>
+  </div>
+  <!-- End Primary View -->
+
+  <!-- Footer -->
+  <footer class="page-footer">
+    <!-- TODO: Fill in contact info here: Include things like email, LinkedIn, Twitter and GitHub links. -->
+    <h4 id="navToContact">Get in touch with me!</h4>
+    <ul id="contact-me">
+      <li><a href="mailto:satterfield.lindsey@gmail.com">Gmail</a></li>
+      <li><a href="https://www.linkedin.com/in/lindseysatterfield/">LinkedIn</a></li>
+      <li><a href="https://github.com/lindseysatterfield">GitHub</a></li>
+    </ul>
+  </footer>
+  <!-- End Footer -->
 </body>
 </html>
