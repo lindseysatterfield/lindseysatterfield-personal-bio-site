@@ -41,3 +41,14 @@ a {
   width: 8%;
   margin: 1em auto;
 }
+
+#technologies {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+ul {
+  padding-left: 0;
+}
