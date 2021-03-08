@@ -52,3 +52,16 @@ a {
 ul {
   padding-left: 0;
 }
+
+#projects-container {
+  display: flex;
+  margin: 1em;
+  justify-content: center;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+
+#projects-header {
+  text-align: center;
+  margin: 1em 0;
+}
