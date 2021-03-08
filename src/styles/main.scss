@@ -1,9 +1,9 @@
 @import "~bootstrap/scss/bootstrap";
 @import "~@fortawesome/fontawesome-free/css/all.min.css";
-@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sora&display=swap');
 
 body {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Sora', sans-serif;
   margin: 0 auto;
 }
 
@@ -13,6 +13,10 @@ nav ul, #technologies-container, #contact-me {
 
 a {
   text-decoration: none;
+}
+
+a:visited {
+  color: #FBC263;
 }
 
 #profile {
@@ -47,6 +51,7 @@ a {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  margin: 1em 0;
 }
 
 ul {
@@ -55,7 +60,6 @@ ul {
 
 #projects-container {
   display: flex;
-  margin: 1em;
   justify-content: center;
   align-items: flex-start;
   flex-wrap: wrap;
@@ -63,5 +67,16 @@ ul {
 
 #projects-header {
   text-align: center;
-  margin: 1em 0;
+  margin-top: 1em;
+}
+
+#contact-me {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.contact-icons {
+  width: 3em;
+  margin: 0 2em;
 }

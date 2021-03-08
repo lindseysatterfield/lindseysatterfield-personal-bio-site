@@ -1,5 +1,6 @@
 import 'bootstrap';
 import '../styles/main.scss';
+import contact from './components/contact';
 import navbar from './components/navbar';
 import profile from './components/profile';
 import projectsHeader from './components/projects-header';
@@ -13,6 +14,7 @@ const init = () => {
   technologies();
   projectsHeader();
   createProjectCards(projects);
+  contact();
 };
 
 init();
