@@ -8,6 +8,7 @@ const technologies = () => {
     <li>Bootstrap</li>
     <li>Git</li>
     <li>GitHub</li>
+    <li>Firebase</li>
   </ul>`;
 };
 
