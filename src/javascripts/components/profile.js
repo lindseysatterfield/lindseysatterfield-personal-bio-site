@@ -2,8 +2,9 @@ import coding from '../../assets/coding.png';
 
 const profile = () => {
   document.querySelector('#profile').innerHTML = `
-    <h1 class="greeting">Hello World! I'm Lindsey.</h1>
-    <h3 class="greeting-title">Web Developer</h3>
+    <h1 class="greeting">Hello World!</h1>
+    <h1 class="greeting">I'm Lindsey.</h1>
+    <h4 class="greeting-title">Web Developer</h4>
     <img src="${coding}" id="coding-img" alt="Computer with code">
     <div id="bio">
       <p class="bio">As a long time enthusiast of all things technology, I am currently loving what I do -- developing 

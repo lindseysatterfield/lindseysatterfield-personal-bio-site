@@ -1,0 +1,42 @@
+{
+  "-MVneQpZ9biMARlh0VEN" : {
+    "description" : "This sorts prospective students into random Hogwarts houses via array looping and attached dynamically to the DOM.",
+    "githubUrl" : "https://github.com/lindseysatterfield/sorting-hat",
+    "screenshot" : "http://drive.google.com/uc?export=view&id=1_zWIYcBOkbZKWL5WbvR1GosGxYt_PYAf",
+    "technologiesUsed" : "HTML, CSS, Vanilla JavaScript, Bootstrap, Version Control with Github",
+    "title" : "The Sorting Hat",
+    "url" : "https://lindseysatterfield-sorting-hat.netlify.app/"
+  },
+  "-MVnejDk7uWYsKOL-Veg" : {
+    "description" : "An app for when a user cannot choose a restaurant in Nashville. The user clicks a button and a random restaurant appears.",
+    "githubUrl" : "https://github.com/lindseysatterfield/nashville-restaurant-randomizer",
+    "screenshot" : "http://drive.google.com/uc?export=view&id=1f5peOJrbD-34IVPFuVcf7GAM4y0Z3jFh",
+    "technologiesUsed" : "HTML, CSS, Bootstrap, Vanilla JavaScript, Version Control with Github",
+    "title" : "Nashville Restaurant Randomizer",
+    "url" : "https://nashville-restaurant-randomizer.netlify.app/"
+  },
+  "-MVnfC7-SnM4p7vuGkVQ" : {
+    "description" : "Made popular in the late 90s/early 2000s as a toy, this is a virtual pet app where the user can take care of a cat within four different categories.",
+    "githubUrl" : "https://github.com/lindseysatterfield/ASSIGNMENT-Tamagotchi",
+    "screenshot" : "http://drive.google.com/uc?export=view&id=1TpiwbvA9kA7CeCmI09xQ-I-YwmVM6fdt",
+    "technologiesUsed" : "HTML, CSS, Bootstrap, Vanilla JavaScript, Webpack, Version Control with Github",
+    "title" : "Tamagotchi",
+    "url" : "https://lindseysatterfield-tamagotchi.netlify.app/"
+  },
+  "-MVnfREph3Bgv8Mxbxe6" : {
+    "description" : "A user can add a bear name and image url then get back the random weight and a fact about the bear.",
+    "githubUrl" : "https://github.com/lindseysatterfield/ASSIGNMENT-Bear-Watcher",
+    "screenshot" : "http://drive.google.com/uc?export=view&id=1xfYrl7k-8WTed9F1eFD5olWXXBDmNYy_",
+    "technologiesUsed" : "HTML, CSS, Bootstrap, Vanilla JavaScript, Webpack, Version Control with Github",
+    "title" : "Bear Watcher",
+    "url" : "https://lindseysatterfield-bear-watcher.netlify.app/"
+  },
+  "-MVnfg1UjmKHDzbL0hYh" : {
+    "description" : "Users may create boards/pins with each having a submitted image and description after logging in. Boards/pins can be created, updated, and deleted.",
+    "githubUrl" : "https://github.com/lindseysatterfield/ASSIGNMENT-Firebase-Pinterest",
+    "screenshot" : "http://drive.google.com/uc?export=view&id=1vvFoSY7VO530tlYnwLxFiY9qiiZsdaAI",
+    "technologiesUsed" : "HTML, CSS, Bootstrap, Vanilla JavaScript, Firebase, Version Control with Github",
+    "title" : "Passably Pinterest",
+    "url" : "https://lindseysatterfield-passably-pinterest.netlify.app/"
+  }
+}
