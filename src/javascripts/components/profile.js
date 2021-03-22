@@ -1,4 +1,4 @@
-import lindsey from '../../assets/lindsey.jpg';
+import lindsey from '../../assets/lindsey.png';
 
 const profile = () => {
   document.querySelector('#profile').innerHTML = `
